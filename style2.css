@@ -1,0 +1,38 @@
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
+
+.img {
+  margin:100px;
+}
+
+.border { 
+  border-width: 2px; 
+  border-color: green; 
+  border-style: solid; 
+} 
+
+
+/*table {
+    margin: 20px
+}
+
+/*th {
+  width: 50px;
+}
